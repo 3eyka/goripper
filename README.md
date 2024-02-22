@@ -29,7 +29,7 @@ this is easy to fix tho, i just need to do it :')
 - -r  |  number of requests
 - -t  |  number of threads
 ---
-- -x  |  exports the positive results in a xml file (export.txt), *and updates it if it already exists.*
+- -x  |  exports the positive results in a txt file (export.txt), *and updates it if it already exists.*
 
 ---
 ### Usage
